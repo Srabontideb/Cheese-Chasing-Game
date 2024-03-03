@@ -1,2 +1,4 @@
 # Cheese-Chasing-Game
 In this interactive game, a rat embarks on a quest to eat as much cheese as possible. As the player scores points by catching falling cheese, the difficulty escalates with each level. Upon reaching specific score thresholds, the game advances, increasing the speed of the falling cheese. To keep up, the rat must move faster, challenging the player to react quicker to ensure the rat continues feasting. This engaging gameplay mechanic, combined with the progression of levels, provides a fun and increasingly challenging experience.
+
+We have used Processing 3 which is a Java-based language often used for visual arts and interactive projects. Processing is similar to Python in its simplicity and ease of use especially for beginners but they are different languages and have different syntax and libraries. 
