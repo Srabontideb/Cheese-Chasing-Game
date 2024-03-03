@@ -1,2 +1,2 @@
 # Cheese-Chasing-Game
-A dynamic game where your agility is tested as a rat chasing after falling cheese. Each catch scores points, escalating to harder levels with faster cheese. Master the speed to keep feasting!
+In this interactive game, a rat embarks on a quest to eat as much cheese as possible. As the player scores points by catching falling cheese, the difficulty escalates with each level. Upon reaching specific score thresholds, the game advances, increasing the speed of the falling cheese. To keep up, the rat must move faster, challenging the player to react quicker to ensure the rat continues feasting. This engaging gameplay mechanic, combined with the progression of levels, provides a fun and increasingly challenging experience.
